@@ -9,3 +9,5 @@
 ## MP3: Robust estimation and geometric vision
 
 ## MP4: Deep Convolutional Neural Networks
+
+### View the .ipnyb files to see the code and outputs generated for each project
