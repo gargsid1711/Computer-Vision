@@ -1,4 +1,4 @@
-# This Repository contains all the source files for the CS543/ECE549 - Computer Vision Class
+# This repository contains all the source files for the CS543/ECE549 - Computer Vision Class
 
 ## MP0: Image demosaicing
 
