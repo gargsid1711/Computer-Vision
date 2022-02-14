@@ -9,4 +9,4 @@
 ### MP4: Deep Convolutional Neural Networks
 
 ### View the .ipnyb files to see the code and outputs generated for each project
-## I hereby state that I shall not be held responsible for any misuse of my work or any academic integrity violations.
+### I hereby state that I shall not be held responsible for any misuse of my work or any academic integrity violations.
