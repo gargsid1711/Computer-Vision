@@ -1,4 +1,4 @@
-# This repository contains all the source files for the CS543/ECE549 - Computer Vision Class
+# This repository contains all my code for the CS543/ECE549 - Computer Vision Class
 
 ## DO NOT COPY. Only for reference
 
